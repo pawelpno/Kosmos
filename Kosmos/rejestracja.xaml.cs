@@ -70,7 +70,7 @@ namespace Kosmos
                 }
                 else if (pot.sprawdzenie == 2)
                 {
-                    MessageBox.Show("Brak zgody na założenie konta HAHAHAGaH");
+                    MessageBox.Show("Brak zgody na założenie konta To nieźle");
 
                 }
 
